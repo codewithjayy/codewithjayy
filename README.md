@@ -1,4 +1,4 @@
-![logo](https://github.com/codewithjayy/codewithjayy/blob/main/github%20banner.png) 
+![logo](https://github.com/codewithjayy/codewithjayy/blob/main/ajay%20prasad2.png) 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +11,7 @@
     <a href="https://www.canva.com/design/DAF0fDK1-9Y/t21smugaLVLnRg2F75kgrQ/view?utm_content=DAF0fDK1-9Y&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="show"><img align="top center src="https://www.canva.com/design/DAF0fDK1-9Y/t21smugaLVLnRg2F75kgrQ/view?utm_content=DAF0fDK1-9Y&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="codding"height="60px" width="1200px"/></a> -->
     <!-- <p align="top" width="300px" height="40px"> <a href="https://www.canva.com/design/DAF0fDK1-9Y/vzXGUypF82LTKmpedHP_2g/edit?utm_content=DAF0fDK1-9Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"></a><alt="codding" /> </p> -->
 
-<h1 align="center">Hi 👋, I'm Ajay Mehra</h1>
+<h1 align="center">Hi 👋, I'm Ajay Prasad</h1>
 <h3 align="center">A passionate data analytics as well web developer from India</h3>
 <p align="right" width="3px" height="1px"> <img src="https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif" alt="codding" /> </p>
 
