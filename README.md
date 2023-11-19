@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Ajay Prasad</h1>
-<h3 align="center">I am passionated of data analytics as well web developer from India</h3>
+<h3 align="center">I am passionated about to learn data analytics as well web developer from India</h3>
 <p><img align="right" width="500px" src="https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif" alt="codewithjayy" /></p>
 
 <!-- <img align="right" width ="400px" src=""https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif" alt="codding"> -->
