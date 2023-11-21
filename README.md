@@ -19,11 +19,11 @@
 
 - 🌱 I’m currently learning ** data analytics field as well developing**<br>
 
-- 💬 Ask me about **Any query you can ask regarding my skill those are mention in my profiles**<br>
+- 💬 Ask me about **you can ask any queries regarding my skill those are mention in my profiles**<br>
 
 - 📫 How to reach me **ajjjuupd18@gmail.com**<br>
 
-- ⚡ Fun fact **I am funny**<br>
+- ⚡ Fun fact **I think i'm funny😄,this is the funniest things😄😄 **<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
