@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **you can ask any queries regarding my skill those are mention in my profiles**<br>
 
-- 📫 How to reach me **ajjjuupd18@gmail.com**<br>
+- 📫 How to reach me **ajayprasad2694@gmail.com**<br>
 
 - ⚡ Fun fact **I think i'm funny😄,this is the funniest things😄😄 **<br>
 
