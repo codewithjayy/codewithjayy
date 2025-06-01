@@ -1,5 +1,5 @@
 ## Hi there 👋 I'M Ajay Prasad
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"  height="300" alt="Coding gif">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" style="float: right; margin-top: 100px; margin-right: 20px; width: 500px; height: auto;">
     
 # 💫 About Me:
 🔭 I’m currently working on  <br>- Industry-based apps and website development  <br>- Consultancy company website  <br>- Creative studio website  <br><br>🧑‍🤝‍🧑 I’m looking to collaborate on  <br>- AI, web dev, or data-driven projects  <br><br>🤝 I’m looking for help with  <br>- Deploying scalable full-stack apps  <br><br>🌱 I’m currently learning  <br>- Advanced ML and backend development  <br><br>💬 Ask me about  <br>- AI projects, web apps, youth blogging  <br><br>🔗 You can connect with me through my [portfolio](https://codewithjayy.xyz/)<br>
