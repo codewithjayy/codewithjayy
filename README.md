@@ -1,6 +1,6 @@
 ## Hi there 👋 I'M AJAY MEHRA
 # 💫 About Me:
-### 🔭 I’m currently working on<br>- **Voice-enabled geospatial app** (ISRO project)<br>- **Consultancy company website**<br>- **Creative studio website**<br><br>### 🧑‍🤝‍🧑 I’m looking to collaborate on<br>- **AI, web dev, or data-driven projects**<br><br>### 🤝 I’m looking for help with<br>- **Deploying scalable full-stack apps**<br><br>### 🌱 I’m currently learning<br>- **Advanced ML** and **backend development**<br><br>### 💬 Ask me about<br>- **AI projects**, **web apps**, **youth blogging**<br>
+### 🔭 I’m currently working on<br>- **Consultancy company website**<br>- **Creative studio website**<br><br>### 🧑‍🤝‍🧑 I’m looking to collaborate on<br>- **AI, web dev, or data-driven projects**<br><br>### 🤝 I’m looking for help with<br>- **Deploying scalable full-stack apps**<br><br>### 🌱 I’m currently learning<br>- **Advanced ML** and **backend development**<br><br>### 💬 Ask me about<br>- **AI projects**, **web apps**, **youth blogging**<br>
 
 
 ## 🌐 Socials:
