@@ -1,6 +1,22 @@
 ## Hi there 👋 I'M AJAY MEHRA
 # 💫 About Me:
-### 🔭 I’m currently working on<br>- **Consultancy company website**<br>- **Creative studio website**<br><br>### 🧑‍🤝‍🧑 I’m looking to collaborate on<br>- **AI, web dev, or data-driven projects**<br><br>### 🤝 I’m looking for help with<br>- **Deploying scalable full-stack apps**<br><br>### 🌱 I’m currently learning<br>- **Advanced ML** and **backend development**<br><br>### 💬 Ask me about<br>- **AI projects**, **web apps**, **youth blogging**<br>
+🔭 I’m currently working on  
+- Industry-based apps and website development  
+- Consultancy company website  
+- Creative studio website  
+
+🧑‍🤝‍🧑 I’m looking to collaborate on  
+- AI, web dev, or data-driven projects  
+
+🤝 I’m looking for help with  
+- Deploying scalable full-stack apps  
+
+🌱 I’m currently learning  
+- Advanced ML and backend development  
+
+💬 Ask me about  
+- AI projects, web apps, youth blogging  
+
 
 
 ## 🌐 Socials:
