@@ -1,4 +1,4 @@
-## Hi there 👋 I'M Ajay Prasad
+## Hi EveryOne 👋 I'M Ajay Prasad
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" style="float: right; margin-top: 100px; margin-right: 0px; width: 1000px; height: auto;">
     
 # 💫 About Me:
